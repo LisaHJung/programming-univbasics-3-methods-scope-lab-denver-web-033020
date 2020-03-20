@@ -9,6 +9,7 @@ def toadstool
   puts status
 end
 
+def linkputs 
 
 
 
